@@ -1,0 +1,9 @@
+C:\Users\Trang\source\repos\J2.L.P0022\J2.L.P0022\bin\Debug\J2.L.P0022.exe
+C:\Users\Trang\source\repos\J2.L.P0022\J2.L.P0022\bin\Debug\J2.L.P0022.pdb
+C:\Users\Trang\source\repos\J2.L.P0022\J2.L.P0022\obj\Debug\J2.L.P0022.csprojAssemblyReference.cache
+C:\Users\Trang\source\repos\J2.L.P0022\J2.L.P0022\obj\Debug\J2.L.P0022.Form1.resources
+C:\Users\Trang\source\repos\J2.L.P0022\J2.L.P0022\obj\Debug\J2.L.P0022.Properties.Resources.resources
+C:\Users\Trang\source\repos\J2.L.P0022\J2.L.P0022\obj\Debug\J2.L.P0022.csproj.GenerateResource.cache
+C:\Users\Trang\source\repos\J2.L.P0022\J2.L.P0022\obj\Debug\J2.L.P0022.csproj.CoreCompileInputs.cache
+C:\Users\Trang\source\repos\J2.L.P0022\J2.L.P0022\obj\Debug\J2.L.P0022.exe
+C:\Users\Trang\source\repos\J2.L.P0022\J2.L.P0022\obj\Debug\J2.L.P0022.pdb
